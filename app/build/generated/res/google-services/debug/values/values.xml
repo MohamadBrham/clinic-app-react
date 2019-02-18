@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">73381821786-9ric0ofbe9122gpfbrs4jdipg50smjv3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://small-clinic-2018.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">73381821786</string>
+    <string name="google_api_key" translatable="false">AIzaSyB_1GFYwPIqk8DZFVbjDIC3FfOdlD9lLoI</string>
+    <string name="google_app_id" translatable="false">1:73381821786:android:acdf90ebd266b8ed</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB_1GFYwPIqk8DZFVbjDIC3FfOdlD9lLoI</string>
+    <string name="google_storage_bucket" translatable="false">small-clinic-2018.appspot.com</string>
+    <string name="project_id" translatable="false">small-clinic-2018</string>
+</resources>
